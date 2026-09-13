@@ -2,6 +2,21 @@
 
 ## End-to-End Machine Learning System for Automated Data Quality Detection
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.7.2-orange)
+![Azure ML](https://img.shields.io/badge/Azure%20Machine%20Learning-Cloud%20Deployment-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
+
+> **An end-to-end machine learning system that identifies potentially low-quality data records before they reach analysts and business users.**
+
+**Tech Stack:** Python • Pandas • NumPy • scikit-learn • Azure Machine Learning • Jupyter Notebook • GitHub
+
+**Final Model:** Logistic Regression  
+**Test Accuracy:** 86.16%  
+**Recall:** 37.48%  
+**F1 Score:** 35.63%  
+**Deployment:** Azure ML Managed Online Endpoint
+
 An end-to-end machine learning project designed to identify potentially low-quality data records before they reach analysts and business users.
 
 The system uses Python and scikit-learn to train and optimize classification models, then deploys the final model through Microsoft Azure Machine Learning as an inference endpoint.
