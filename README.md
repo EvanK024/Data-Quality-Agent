@@ -162,6 +162,25 @@ The model successfully identifies a substantially larger portion of records requ
 
 ## ☁️ Azure Machine Learning Deployment
 The trained model was deployed using Microsoft Azure Machine Learning.
+
+### Azure ML Deployment Evidence
+
+#### Azure Machine Learning Workspace
+
+![Azure Machine Learning Workspace](images/azure-workspace.png)
+
+#### Registered Model
+
+![Registered Model](images/model-registration.png)
+
+#### Managed Online Endpoint
+
+![Azure ML Endpoint Deployment](images/endpoint-deployment.png)
+
+#### Live Model Prediction
+
+![Live Endpoint Prediction](images/live-prediction.png)
+
 Azure components used include:
 Azure Machine Learning Workspace
 Azure ML Compute Instance
