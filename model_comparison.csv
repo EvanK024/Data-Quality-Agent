@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1 Score
+Baseline Logistic Regression,0.9023,0.638,0.1018,0.1755
+Class-Weighted Logistic Regression,0.7199,0.2163,0.6634,0.3262
+Threshold-Tuned Logistic Regression,0.8615,0.3395,0.3748,0.3563
+Hyperparameter-Tuned Logistic Regression,0.8615,0.3395,0.3748,0.3563
