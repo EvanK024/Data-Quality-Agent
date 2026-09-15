@@ -294,6 +294,8 @@ The case study presents the same project from a data analytics perspective, focu
 📄 [View the Data Analytics Case Study](case-study/Data_Quality_Analytics_Capstone_Case_Study.pdf)
 
 
+
+
 👤 Project Author
 EvanK024 -- Evan Middleton
 This project demonstrates practical experience with data analysis, supervised machine learning, model evaluation, optimization, and cloud-based ML deployment.
