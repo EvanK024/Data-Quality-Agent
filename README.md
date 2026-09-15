@@ -15,7 +15,7 @@
 **Test Accuracy:** 86.16%  
 **Recall:** 37.48%  
 **F1 Score:** 35.63%  
-**Deployment:** Azure ML Managed Online Endpoint
+**Deployment:** Azure ML Managed Online Endpoint (demonstrated)
 
 An end-to-end machine learning project designed to identify potentially low-quality data records before they reach analysts and business users.
 
@@ -277,6 +277,21 @@ Monitoring model performance after deployment
 Retraining the model as new labeled data becomes available
 Adding automated data-quality dashboards
 Integrating the endpoint with a production data pipeline
+
+
+## Project Documentation
+
+### Technical Report
+
+The technical report documents the complete machine learning workflow, including data preparation, model development, class-imbalance handling, threshold optimization, evaluation, and Azure Machine Learning deployment.
+
+📄 [View the Technical Report](technical-report/Data_Quality_Agent_Technical_Report.pdf)
+
+### Data Analytics Case Study
+
+The case study presents the same project from a data analytics perspective, focusing on the business problem, data preparation, analysis, findings, and recommendations.
+
+📄 [View the Data Analytics Case Study](case-study/Data_Quality_Analytics_Capstone_Case_Study.pdf)
 
 
 👤 Project Author
